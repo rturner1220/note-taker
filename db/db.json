@@ -1,22 +1,12 @@
 [
-  1,
-  [
-    1,
-    [
-      {
-        "title": "Test Title",
-        "text": "Test text"
-      }
-    ]
-  ],
   {
-    "title": "rosa",
-    "text": "hello",
-    "id": "b0a07b4c-9934-4bc8-b255-486cd0155c89"
+    "title": "List",
+    "text": "apple",
+    "id": "7f0dd559-0a39-419c-b2aa-4824cb3a0b80"
   },
   {
-    "title": "rosa",
-    "text": "hello",
-    "id": "170cd6f5-7290-4321-9313-ab7a4d4e8a1a"
+    "title": "fdfd",
+    "text": "dfdfdf",
+    "id": "82137d37-2ca7-4fdb-bcdd-a7e731e5545b"
   }
 ]

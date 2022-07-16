@@ -9,14 +9,14 @@ const htmlRoutes = require('./routes/htmlRoutes');
 //set static folder
 app.use(express.static('public'));
 
-// use apiRoutes
-app.use('/api', apiRoutes);
-app.use('/', htmlRoutes);
 
 // Body parser Middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+// use apiRoutes
+app.use('/api', apiRoutes);
+app.use('/', htmlRoutes);
 
 // listener
 app.listen(PORT, () => console.log(`server started on port ${PORT}`));
