@@ -32,3 +32,5 @@ An application to write and save note with Express.js back end and will save and
 
 # Contributor: Rosa Turner
 
+![screenshot](https://user-images.githubusercontent.com/101642385/179328842-812b4009-0134-46c9-9977-88a5b9a47ea4.png)
+
