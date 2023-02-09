@@ -21,6 +21,8 @@
   "homepage": "https://github.com/coding-boot-camp/miniature-eureka#readme",
   "dependencies": {
     "express": "^4.18.1",
+    "serverless-dependency-install": "^0.0.3",
+    "serverless-http": "^3.1.1",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
